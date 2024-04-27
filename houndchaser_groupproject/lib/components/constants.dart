@@ -1,1 +1,1 @@
-const String google_api_key = "AIzaSyD7O6GxX_BdC7fb2_KJVnitz9GgUJo3ejU";
+const String google_api_key = //Left blank for own user to place;
