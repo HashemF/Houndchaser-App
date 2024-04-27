@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAFHh199Hih14HzjF8j0KTl-YwWRUBnu2c',
+    apiKey: , //Left Blank for the users to fill out for themselves, as this is a secret api key
     appId: '1:470073925298:web:e89c097c3cda51154af3ab',
     messagingSenderId: '470073925298',
     projectId: 'cs3130-houndchaserdb',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDFxkmg3WL4OiXHUqLG0MinPCCZNSjvbIw',
+    apiKey: //Left Blank for the users to fill out for themselves, as this is a secret api key,
     appId: '1:470073925298:android:ab4c80b54b80cb404af3ab',
     messagingSenderId: '470073925298',
     projectId: 'cs3130-houndchaserdb',
