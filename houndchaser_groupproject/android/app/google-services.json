@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "470073925298",
+    "firebase_url": "https://cs3130-houndchaserdb-default-rtdb.firebaseio.com",
+    "project_id": "cs3130-houndchaserdb",
+    "storage_bucket": "cs3130-houndchaserdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470073925298:android:ab4c80b54b80cb404af3ab",
+        "android_client_info": {
+          "package_name": "com.example.houndchaser_groupproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFxkmg3WL4OiXHUqLG0MinPCCZNSjvbIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/cs3130_houndchaser_groupproj/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/cs3130_houndchaser_groupproj/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/cs3130_houndchaser_groupproj/build" />
+      <excludeFolder url="file://$MODULE_DIR$/houndchaser_groupproject/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/houndchaser_groupproject/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/houndchaser_groupproject/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="1b6fe76f-d2d2-4eaf-8362-3c36fbb47056" />
+  </component>
+</module>
